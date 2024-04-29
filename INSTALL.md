@@ -255,4 +255,4 @@ configuring each `USE_SHARED_` option.
 
 After running `cmake -G`, you can edit `build/CMakeCache.txt` file,
 and enable the `USE_SHARED_` flag (set its value to `ON`) of the
-library that you want to be linked dynamically.
+library that you want to be linked dynamically. 
